@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+body {
+	background:  url(img/prueba3.jpg) no-repeat;
+	background-size: cover;
+	background-position: center center;
+	background-attachment: fixed;
+}
+
+.noticia {
+	margin-left: 52.5%;
+	width: 700px;
+	height: 500px;
+	border: none;
+
+}
